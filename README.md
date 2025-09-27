@@ -2,17 +2,17 @@
 
 I'm a Computer Engineering student passionate about Project & Product Management. I'm looking to launch and advance my career in project management while actively pursuing personal software projects to continually enhance my technical skills.
 
-### 🚀 What I'm Currently Working On
+### 🚀 Currently
 
-TrackSub – An intuitive iOS app designed to help users easily manage and track their subscriptions.
+Computer Engineering Student - 4th Year
+
+Founder - EntrovaLabs (https://entrovalabs.com)
 
 ### 🛠️ Skills & Interests
 
 Project Management: Agile methodologies, Scrum, Kanban, and project lifecycle management.
 
-Software Development: Mostly AI, Data Analysis and sometimes iOS and Web Development.
-
-Personal Growth: Continuously improving my understanding of product design, user experience, and market analysis.
+Software Development: Mostly Mobile Apps, AI and Web Development.
 
 ### 📫 Contact Me
 
