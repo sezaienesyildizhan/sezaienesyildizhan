@@ -1,26 +1,63 @@
-# Hi, I'm Sezai Enes Yıldızhan! 👋
+<div align="center">
 
-I'm a Computer Engineering student passionate about Project & Product Management. I'm looking to launch and advance my career in project management while actively pursuing personal software projects to continually enhance my technical skills.
+# Hi, I'm Sezai Enes Yıldızhan 👋
 
-### 🚀 Currently
+### Founder @ EntrovaLabs | Computer Engineering Senior
+**Specializing in Project Management, Software Engineering, SaaS Architecture, and AI**
 
-Computer Engineering Student - 4th Year
+[Website](https://sezaienesyildizhan.com) • [LinkedIn](https://linkedin.com/in/sezaienesyildizhan) • [EntrovaLabs](https://entrovalabs.com)
 
-Founder - EntrovaLabs (https://entrovalabs.com)
+</div>
 
-### 🛠️ Skills & Interests
+---
 
-Project Management: Agile methodologies, Scrum, Kanban, and project lifecycle management.
+### Professional Summary
 
-Software Development: Mostly Mobile Apps, AI and Web Development.
+I am a final-year **Computer Engineering student** and the **Founder of EntrovaLabs**. I possess dual expertise in **Software Engineering** and **Project Management**. My focus is on building scalable, cross-platform mobile applications and efficient SaaS solutions.
 
-### 📫 Contact Me
+I actively leverage **Agentic AI tools** (Cursor, Claude Code) to accelerate development cycles and deliver high-quality production code.
 
-Website: https://sezaienesyildizhan.com
+---
 
-LinkedIn: https://linkedin.com/in/sezaienesyildizhan
+### Technical Arsenal
 
-E-Mail: sezaienesyildizhan@gmail.com
+<div align="center">
 
-Thanks for visiting my profile! ✨
+| **Core Stacks** | **Languages & Frameworks** |
+| :--- | :--- |
+| **Mobile** | <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> |
+| **Web & Backend** | <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| **Cloud & Database** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> |
+| **AI & DevTools** | <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_Codex-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <br> <img src="https://img.shields.io/badge/OpenCode-121013?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/RevenueCat-E34F26?style=for-the-badge&logo=revenuecat&logoColor=white" /> |
 
+</div>
+
+---
+
+### Venture & Portfolio
+
+I founded **EntrovaLabs**, leading a team to design, develop, and market utility-first mobile applications.
+
+#### Published Applications
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **GalaxyFocus** | **Gamified Productivity App**<br>Turns focus sessions into a space adventure. Features a custom reward system, in-app purchases, and streak tracking to build healthy habits. | `React Native` `Supabase` |
+| **TwoGether** | **Couples' Organization App**<br>A shared space for couples featuring synchronized calendars, to-do lists, and real-time messaging. Built on a "Built for Two" shared architecture. | `React Native` `Supabase` |
+| **TrackSub** | **Subscription Manager**<br>A utility to track recurring expenses and renewal dates. Focuses on financial visibility and secure data handling. | `Swift` `CloudKit` |
+| **AI Bestfriend** | **Conversational AI Companion**<br>Integrates LLMs to provide real-time emotional support and personalized scheduling recommendations. | `React Native` `Supabase` `LLM Integration` |
+
+---
+
+<div align="center">
+  <br>
+  <a href="mailto:sezaienesyildizhan@entrovalabs.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sezaienesyildizhan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/senesyildizhan">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</div>
