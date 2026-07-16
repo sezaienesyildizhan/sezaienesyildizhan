@@ -2,7 +2,7 @@
 
 # Hi, I'm Sezai Enes Yıldızhan 👋
 
-### Founder @ EntrovaLabs | Computer Engineering Senior
+### Founder @ EntrovaLabs | Project Management Engineer
 **Specializing in Project Management, Software Engineering, SaaS Architecture, and AI**
 
 [Website](https://sezaienesyildizhan.com) • [LinkedIn](https://linkedin.com/in/sezaienesyildizhan) • [EntrovaLabs](https://entrovalabs.com)
