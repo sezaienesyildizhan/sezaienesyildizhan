@@ -13,7 +13,7 @@
 
 ### Professional Summary
 
-I am a final-year **Computer Engineering student** and the **Founder of EntrovaLabs**. I possess dual expertise in **Software Engineering** and **Project Management**. My focus is on building scalable, cross-platform mobile applications and efficient SaaS solutions.
+I am a Project Management Engineer and the **Founder of EntrovaLabs**. I possess dual expertise in **Software Engineering** and **Project Management**. My focus is on building scalable, cross-platform mobile applications and efficient SaaS solutions.
 
 I actively leverage **Agentic AI tools** (Cursor, Claude Code) to accelerate development cycles and deliver high-quality production code.
 
