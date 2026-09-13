@@ -9,10 +9,6 @@
 
 </div>
 
----
-
----
-
 <div align="center">
   <br>
   <a href="mailto:sezaienesyildizhan@entrovalabs.com">
