@@ -85,43 +85,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 3
-    },
-    {
-      "instanceId": "widget_1790118745288",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 280
-      },
-      "size": {
-        "width": 416,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "twitter",
-          "email"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/sezaienesyildizhan",
-          "linkedin": "https://linkedin.com/in/sezaienesyildizhan",
-          "website": "https://sezaienesyildizhan.com",
-          "email": "mailto:sezaienesyildizhan@entrovalabs.com",
-          "twitter": "https://x.com/senesyildizhan"
-        },
-        "showTitle": true,
-        "customTitle": "Connect with me",
-        "badgeStyle": "for-the-badge",
-        "lockAspectRatio": false,
-        "hideBorder": true,
-        "textColor": "#ffffff"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5
     }
   ],
   "globalStyles": {
@@ -138,7 +101,7 @@
   "templateId": "blank",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790119417671_l04s8",
-    "updatedAt": "2026-09-22T23:23:39.500Z"
+    "revision": "rev_1790119674600_vaq7q",
+    "updatedAt": "2026-09-22T23:27:56.839Z"
   }
 }
