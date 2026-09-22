@@ -1,0 +1,143 @@
+{
+  "username": "sezaienesyildizhan",
+  "widgets": [
+    {
+      "instanceId": "widget_1790118566271",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 14
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#c5ff4a",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#c5ff4a",
+        "modeTag": "RETRO CRT",
+        "roleTag": "Founder & Project Manager",
+        "customBio": "Founder of EntrovaLabs & Junior Project Manager"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1790118606223",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 447
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#c5ff4a",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1790118622537",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 883
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Daily Loadout",
+        "workflow": [
+          "Git",
+          "Docker",
+          "Terminal",
+          "Linux",
+          "Figma",
+          "notion",
+          "kubernetes"
+        ],
+        "languages": [
+          "TypeScript",
+          "JavaScript",
+          "swift",
+          "next.js",
+          "python",
+          "c++"
+        ],
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1790118745288",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 280
+      },
+      "size": {
+        "width": 424,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "twitter",
+          "email"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/sezaienesyildizhan",
+          "linkedin": "https://linkedin.com/in/sezaienesyildizhan",
+          "website": "https://sezaienesyildizhan.com",
+          "email": "mailto:sezaienesyildizhan@entrovalabs.com",
+          "twitter": "https://x.com/senesyildizhan"
+        },
+        "showTitle": true,
+        "customTitle": "Connect with me",
+        "badgeStyle": "flat-square",
+        "lockAspectRatio": false,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "blank"
+  },
+  "templateId": "blank",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790119184424_r82sk",
+    "updatedAt": "2026-09-22T23:19:46.882Z"
+  }
+}
