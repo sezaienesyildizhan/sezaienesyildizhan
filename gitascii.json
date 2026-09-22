@@ -95,7 +95,7 @@
         "y": 280
       },
       "size": {
-        "width": 424,
+        "width": 416,
         "height": 120
       },
       "config": {
@@ -114,7 +114,7 @@
         },
         "showTitle": true,
         "customTitle": "Connect with me",
-        "badgeStyle": "flat-square",
+        "badgeStyle": "for-the-badge",
         "lockAspectRatio": false,
         "hideBorder": true
       },
@@ -137,7 +137,7 @@
   "templateId": "blank",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790119184424_r82sk",
-    "updatedAt": "2026-09-22T23:19:46.882Z"
+    "revision": "rev_1790119321148_u7dvt",
+    "updatedAt": "2026-09-22T23:22:03.710Z"
   }
 }
