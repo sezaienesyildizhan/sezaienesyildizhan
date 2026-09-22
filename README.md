@@ -21,3 +21,9 @@
     <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
