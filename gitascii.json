@@ -31732,15 +31732,15 @@
         "height": 240
       },
       "config": {
-        "leftGifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2cDNxaGk5YWx6ZzRlNG1scHRndTJpZDliNW1qeGZoYng2aW5iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif",
+        "leftGifUrl": "https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/refs/heads/gitascii/assets/main.gif",
         "titleLine1": "Project Manager by day,",
         "titleLine2": "vibe coder by night.",
         "terminalText": ">",
         "card1Icon": "code",
         "card2Icon": "activity",
-        "card2GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg2aHBudWc4ZTNpYmRieW1tandmandmYWNsbWllMXNpYmJmamN4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKOliZn5OBLLjVe/giphy.gif",
+        "card2GifUrl": "https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/refs/heads/gitascii/assets/bottom.gif",
         "card2Text": " ",
-        "card1GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdhbWY2OHV1NWR1ZGg5c216eXBrZmY5cjNubzY0Mzg0OXJvOHo5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKIcLd2mE98HjzO/giphy.gif",
+        "card1GifUrl": "https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/refs/heads/gitascii/assets/top.gif",
         "card1Text": " .",
         "hideBorder": false,
         "hideDecorations": false
@@ -31765,7 +31765,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791659234572_0ag7t",
-    "updatedAt": "2026-10-10T19:07:17.141Z"
+    "revision": "rev_1791659439381_jou6k",
+    "updatedAt": "2026-10-10T19:10:42.205Z"
   }
 }
