@@ -1,5 +1,4 @@
 {
-  "username": "sezaienesyildizhan",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -31753,10 +31752,5 @@
     "themeMode": "dark",
     "templateStyle": "ascii_native"
   },
-  "templateId": "ascii_native",
-  "profileSlug": "default",
-  "metadata": {
-    "revision": "rev_1791656620818_099zg",
-    "updatedAt": "2026-10-10T18:23:44.068Z"
-  }
+  "templateId": "ascii_native"
 }
