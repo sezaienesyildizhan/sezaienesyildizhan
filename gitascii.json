@@ -31679,7 +31679,11 @@
         "customNow": "Project Manager",
         "infoHost": "sezaienesyildizhan",
         "lockAspectRatio": false,
-        "showTitle": true
+        "showTitle": true,
+        "showBullet1": true,
+        "showBullet2": true,
+        "customBullet1": "entrovalabs.com",
+        "customBullet2": "linkedin.com/sezaienesyildizhan"
       },
       "locked": false,
       "visible": true,
@@ -31761,7 +31765,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791659099229_vwzfj",
-    "updatedAt": "2026-10-10T19:05:01.974Z"
+    "revision": "rev_1791659234572_0ag7t",
+    "updatedAt": "2026-10-10T19:07:17.141Z"
   }
 }
