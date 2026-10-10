@@ -5,12 +5,12 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 24,
-        "y": 22
+        "x": 8,
+        "y": 12
       },
       "size": {
-        "width": 336,
-        "height": 312
+        "width": 328,
+        "height": 356
       },
       "config": {
         "accentColor": "#ffffff",
@@ -31654,7 +31654,7 @@
         "rowDur": 0.05,
         "staticMode": true
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1791655550332_0"
@@ -31663,12 +31663,12 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 368,
-        "y": 8
+        "x": 360,
+        "y": 6
       },
       "size": {
-        "width": 384,
-        "height": 340
+        "width": 432,
+        "height": 368
       },
       "config": {
         "accentColor": "#ffffff",
@@ -31679,7 +31679,7 @@
         "customNow": "Project Manager",
         "infoHost": "sezaienesyildizhan"
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1791655550332_1"
@@ -31688,11 +31688,11 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 48,
-        "y": 562
+        "x": 8,
+        "y": 610
       },
       "size": {
-        "width": 704,
+        "width": 784,
         "height": 240
       },
       "config": {
@@ -31708,7 +31708,7 @@
         ],
         "staticMode": false
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1791655550332_2"
@@ -31718,26 +31718,28 @@
       "widgetId": "codeweb-showcase-cards",
       "name": "Codeweb-showcase-cards Widget",
       "position": {
-        "x": 48,
-        "y": 348
+        "x": 8,
+        "y": 366
       },
       "size": {
-        "width": 704,
-        "height": 200
+        "width": 784,
+        "height": 240
       },
       "config": {
-        "leftGifUrl": "https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/refs/heads/gitascii/assets/main.gif",
+        "leftGifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2cDNxaGk5YWx6ZzRlNG1scHRndTJpZDliNW1qeGZoYng2aW5iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif",
         "titleLine1": "Project Manager by day,",
         "titleLine2": "vibe coder by night.",
         "terminalText": ">",
         "card1Icon": "code",
         "card2Icon": "activity",
-        "card2GifUrl": "https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/refs/heads/gitascii/assets/bottom.gif",
+        "card2GifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg2aHBudWc4ZTNpYmRieW1tandmandmYWNsbWllMXNpYmJmamN4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKOliZn5OBLLjVe/giphy.gif",
         "card2Text": " ",
-        "card1GifUrl": "https://raw.githubusercontent.com/sezaienesyildizhan/sezaienesyildizhan/refs/heads/gitascii/assets/top.gif",
-        "card1Text": " ."
+        "card1GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdhbWY2OHV1NWR1ZGg5c216eXBrZmY5cjNubzY0Mzg0OXJvOHo5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKIcLd2mE98HjzO/giphy.gif",
+        "card1Text": " .",
+        "hideBorder": false,
+        "hideDecorations": false
       },
-      "locked": true,
+      "locked": false,
       "visible": true,
       "zIndex": 4
     }
@@ -31749,14 +31751,15 @@
     "borderColor": "#30363d",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
-    "padding": 24,
+    "padding": 12,
     "themeMode": "dark",
-    "templateStyle": "ascii_native"
+    "templateStyle": "ascii_native",
+    "transparentBackground": false
   },
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791656898587_4tfx9",
-    "updatedAt": "2026-10-10T18:28:21.413Z"
+    "revision": "rev_1791658390543_j2zaj",
+    "updatedAt": "2026-10-10T18:53:13.685Z"
   }
 }
