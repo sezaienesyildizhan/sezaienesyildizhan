@@ -5,12 +5,12 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 8,
-        "y": 12
+        "x": 2,
+        "y": 0
       },
       "size": {
-        "width": 328,
-        "height": 356
+        "width": 338,
+        "height": 378
       },
       "config": {
         "accentColor": "#ffffff",
@@ -31663,12 +31663,12 @@
       "widgetId": "asciiprofile-info",
       "name": "Asciiprofile-info Widget",
       "position": {
-        "x": 360,
-        "y": 6
+        "x": 346,
+        "y": 1
       },
       "size": {
-        "width": 432,
-        "height": 368
+        "width": 450,
+        "height": 376
       },
       "config": {
         "accentColor": "#ffffff",
@@ -31677,7 +31677,9 @@
         "showBackend": false,
         "customAlso": "Founder of EntrovaLabs",
         "customNow": "Project Manager",
-        "infoHost": "sezaienesyildizhan"
+        "infoHost": "sezaienesyildizhan",
+        "lockAspectRatio": false,
+        "showTitle": true
       },
       "locked": false,
       "visible": true,
@@ -31688,11 +31690,11 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 8,
-        "y": 610
+        "x": 2,
+        "y": 614
       },
       "size": {
-        "width": 784,
+        "width": 794,
         "height": 240
       },
       "config": {
@@ -31718,11 +31720,11 @@
       "widgetId": "codeweb-showcase-cards",
       "name": "Codeweb-showcase-cards Widget",
       "position": {
-        "x": 8,
-        "y": 366
+        "x": 2,
+        "y": 372
       },
       "size": {
-        "width": 784,
+        "width": 794,
         "height": 240
       },
       "config": {
@@ -31759,7 +31761,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791658390543_j2zaj",
-    "updatedAt": "2026-10-10T18:53:13.685Z"
+    "revision": "rev_1791659099229_vwzfj",
+    "updatedAt": "2026-10-10T19:05:01.974Z"
   }
 }
