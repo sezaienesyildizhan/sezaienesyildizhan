@@ -31654,7 +31654,7 @@
         "rowDur": 0.05,
         "staticMode": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1791655550332_0"
@@ -31679,7 +31679,7 @@
         "customNow": "Project Manager",
         "infoHost": "sezaienesyildizhan"
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1791655550332_1"
@@ -31708,7 +31708,7 @@
         ],
         "staticMode": false
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1791655550332_2"
@@ -31737,7 +31737,7 @@
         "card1GifUrl": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdhbWY2OHV1NWR1ZGg5c216eXBrZmY5cjNubzY0Mzg0OXJvOHo5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKIcLd2mE98HjzO/giphy.gif",
         "card1Text": " ."
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4
     }
@@ -31756,7 +31756,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791656762517_7mcew",
-    "updatedAt": "2026-10-10T18:26:06.306Z"
+    "revision": "rev_1791656898587_4tfx9",
+    "updatedAt": "2026-10-10T18:28:21.413Z"
   }
 }
